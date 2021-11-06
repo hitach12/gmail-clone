@@ -21,5 +21,9 @@
     border-bottom: 1px solid whitesmoke;
     background-color: white;
     z-index: 999;
-    
+
+}
+
+.emailList_List{
+    margin-bottom: 20%;
 }
